@@ -1,5 +1,5 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-<h1 align="center">Hi 👋, I'm M Sajid Hussain</h1>
+<h1 align="center">Hi 👋, I'm  Sajid Hussain</h1>
 <h3 align="center">Software Developer</h3>
 <img  align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 <p align="left"> <a href="https://twitter.com/sajid_dev_" target="blank"><img src="https://img.shields.io/twitter/follow/sajid_dev_?logo=twitter&style=for-the-badge" alt="sajid_dev_" /></a> </p>
